@@ -1,0 +1,20 @@
+{
+  "name": "SchoolTrack EAPIHS",
+  "short_name": "SchoolTrack",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5ed",
+  "theme_color": "#68182d",
+  "icons": [
+    {
+      "src": "assets/schooltrack-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/schooltrack-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
